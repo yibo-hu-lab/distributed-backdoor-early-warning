@@ -46,10 +46,10 @@ MIT.
 ## Citation
 
 ```bibtex
-@inproceedings{fernandezarias2026early,
-  title     = {Early Detection of Distributed Backdoors in Multi-Agent {LLM} Systems: A Characterization Study},
-  author    = {Fernandez Arias, Diego and Mistry, Dev Prashant and Wang, Ren and Hu, Yibo},
-  booktitle = {Workshop on Agentic AI in Offensive and Defensive Cyber Operations (AIDC)},
-  year      = {2026}
+@article{fernandezarias2026early,
+  title   = {Early Detection of Distributed Backdoors in Multi-Agent {LLM} Systems: A Characterization Study},
+  author  = {Fernandez Arias, Diego and Mistry, Dev Prashant and Wang, Ren and Hu, Yibo},
+  journal = {arXiv preprint arXiv:2607.24893},
+  year    = {2026}
 }
 ```
